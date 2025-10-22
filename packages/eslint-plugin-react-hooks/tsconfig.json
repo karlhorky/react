@@ -1,7 +1,7 @@
 {
   "extends": "@tsconfig/strictest/tsconfig.json",
   "compilerOptions": {
-    "module": "ES2015",
+    "module": "CommonJS",
     "target": "ES2015",
     "moduleResolution": "Bundler",
     "lib": ["ES2020", "dom"],
